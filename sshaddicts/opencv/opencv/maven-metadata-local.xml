@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata>
-  <groupId>3rdparty.opencv</groupId>
+  <groupId>sshaddicts.opencv</groupId>
   <artifactId>opencv</artifactId>
   <versioning>
     <release>3.2.0</release>
