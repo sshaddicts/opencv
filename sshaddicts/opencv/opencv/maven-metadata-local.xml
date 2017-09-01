@@ -3,10 +3,11 @@
   <groupId>sshaddicts.opencv</groupId>
   <artifactId>opencv</artifactId>
   <versioning>
-    <release>3.2.0</release>
+    <release>3.3.0</release>
     <versions>
       <version>3.2.0</version>
+      <version>3.3.0</version>
     </versions>
-    <lastUpdated>20170830011629</lastUpdated>
+    <lastUpdated>20170901005135</lastUpdated>
   </versioning>
 </metadata>
