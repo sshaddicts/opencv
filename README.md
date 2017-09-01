@@ -15,6 +15,6 @@ Add this to your pom.xml
 <dependency>
     <groupId>sshaddicts.opencv</groupId>
     <artifactId>opencv</artifactId>
-    <version>3.2.0</version>
+    <version>${version}</version>
 </dependency>
 ```
